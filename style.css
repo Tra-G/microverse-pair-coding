@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.head{
+    background-color: lightgrey;
+    padding: 15px 0;
+    text-align: center;
+}
+
+h1{
+    font-size: 35px;
+}
+
+.image{
+    width: 900px;
+    margin: auto;
+}
+
+img{
+    width: 900px;
+}
+
+section{
+    padding: 15px;
+    background-color: lightgray;
+}
+
+.heading{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+ul{
+    width: 600px;
+    margin: auto;
+    padding: 30px;
+}
+
+li{
+    padding: 12px;
+}
+
+.quote-p{
+    width: 600px;
+    margin: auto;
+}
+
+.head1{
+    font-style: italic;
+    font-size: 18px;
+}
+
+h3{
+    width: 800px;
+    margin: auto;
+    padding: 30px 0;
+}
